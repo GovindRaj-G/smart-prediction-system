@@ -1,4 +1,4 @@
-# Smart Prediction System
+﻿# Smart Prediction System
 
 A Machine Learning application that predicts Iris flower species using four flower measurements.
 
@@ -24,7 +24,7 @@ The Iris dataset contains 150 flower samples across 3 species:
 - Confusion matrix
 - Data visualizations
 
-## ML Workflow
+## Machine Learning Workflow
 1. Data loading
 2. Exploratory data analysis
 3. Data preprocessing
